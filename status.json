@@ -1,0 +1,636 @@
+{
+    "partypack1": [
+        {
+            "gameID": 1,
+            "nameEN": "You Don't Know Jack 2015",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 4,
+            "audienceSupport": false,
+            "forLivestreams": false,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 2,
+            "nameEN": "Fibbage XL",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": false,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 3,
+            "nameEN": "Drawful",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": false,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 4,
+            "nameEN": "Word Spud",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": false,
+            "forLivestreams": false,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 5,
+            "nameEN": "Lie Swatter",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 100,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ],
+    "partypack2": [
+        {
+            "gameID": 6,
+            "nameEN": "Fibbage 2",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 7,
+            "nameEN": "Earwax",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 8,
+            "nameEN": "Bidiots",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 6,
+            "audienceSupport": false,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 9,
+            "nameEN": "Quiplash XL",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 10,
+            "nameEN": "Bomb Corp.",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 4,
+            "audienceSupport": false,
+            "forLivestreams": false,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ],
+    "partypack3": [
+        {
+            "gameID": 11,
+            "nameEN": "Quiplash 2",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 12,
+            "nameEN": "Trivia Murder Party",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 13,
+            "nameEN": "Guesspionage",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 14,
+            "nameEN": "Tee K.O.",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 15,
+            "nameEN": "Fakin' It",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 6,
+            "audienceSupport": true,
+            "forLivestreams": false,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        }
+    ],
+    "partypack4": [
+        {
+            "gameID": 16,
+            "nameEN": "Fibbage 3",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 17,
+            "nameEN": "Survive the Internet",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 18,
+            "nameEN": "Monster Seeking Monster",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 7,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 19,
+            "nameEN": "Bracketeering",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 16,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 20,
+            "nameEN": "Civic Doodle",
+            "nameDE": "Kritzel Witzel",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        }
+    ],
+    "partypack5": [
+        {
+            "gameID": 21,
+            "nameEN": "You Don't Know Jack: Full Stream",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 22,
+            "nameEN": "Split The Room",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 23,
+            "nameEN": "Mad Verse City",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 24,
+            "nameEN": "Patently Stupid",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 25,
+            "nameEN": "Zeeple Dome",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 6,
+            "audienceSupport": false,
+            "forLivestreams": false,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ],
+    "partypack6": [
+        {
+            "gameID": 26,
+            "nameEN": "Trivia Murder Party 2",
+            "nameDE": "",
+            "minPlayers": 1,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 27,
+            "nameEN": "Role Models",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 6,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 28,
+            "nameEN": "Joke Boat",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 29,
+            "nameEN": "Dictionarium",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 30,
+            "nameEN": "Push The Button",
+            "nameDE": "",
+            "minPlayers": 4,
+            "maxPlayers": 10,
+            "audienceSupport": false,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ],
+    "partypack7": [
+        {
+            "gameID": 31,
+            "nameEN": "Quiplash 3",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        },
+        {
+            "gameID": 32,
+            "nameEN": "The Devils and the Details",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": false,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 33,
+            "nameEN": "Champ'd Up",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 34,
+            "nameEN": "Talking Points",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 35,
+            "nameEN": "Blather 'Round",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 6,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ],
+    "partypack8": [
+        {
+            "gameID": 36,
+            "nameEN": "Drawful Animate",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 10,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 37,
+            "nameEN": "Job Job",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 10,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 38,
+            "nameEN": "The Poll Mine",
+            "nameDE": "",
+            "minPlayers": 2,
+            "maxPlayers": 10,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 39,
+            "nameEN": "Weapons Drawn",
+            "nameDE": "",
+            "minPlayers": 4,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        },
+        {
+            "gameID": 40,
+            "nameEN": "The Wheel of Enormous Proportions",
+            "nameDE": "Das Rad von unglaublicher Größe",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": false,
+            "hasVoiceTranslation": false,
+            "workInProgress": true,
+            "highlight": false
+        }
+    ],
+    "standalone": [
+        {
+            "gameID": 1001,
+            "nameEN": "Drawful 2",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 1002,
+            "nameEN": "Quiplash",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 1003,
+            "nameEN": "Quiplash 2 InterLASHional",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
+        },
+        {
+            "gameID": 1004,
+            "nameEN": "Fibbage XL",
+            "nameDE": "",
+            "minPlayers": 3,
+            "maxPlayers": 8,
+            "audienceSupport": true,
+            "forLivestreams": true,
+
+            "hasTextTranslation": true,
+            "hasVoiceTranslation": false,
+            "workInProgress": false,
+            "highlight": false
+        }
+    ]
+}
