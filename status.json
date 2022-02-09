@@ -182,9 +182,9 @@
             "forLivestreams": true,
 
             "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
         },
         {
             "gameID": 14,
