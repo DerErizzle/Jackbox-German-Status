@@ -353,7 +353,7 @@
             "audienceSupport": false,
             "forLivestreams": false,
 
-            "hasTextTranslation": false,
+            "hasTextTranslation": true,
             "hasVoiceTranslation": false,
             "workInProgress": false,
             "highlight": false
