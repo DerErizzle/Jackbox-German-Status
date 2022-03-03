@@ -96,7 +96,7 @@
             "forLivestreams": true,
 
             "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
+            "hasVoiceTranslation": true,
             "workInProgress": false,
             "highlight": false
         },
@@ -111,7 +111,7 @@
 
             "hasTextTranslation": true,
             "hasVoiceTranslation": false,
-            "workInProgress": false,
+            "workInProgress": true,
             "highlight": false
         },
         {
@@ -282,9 +282,9 @@
             "forLivestreams": true,
 
             "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "hasVoiceTranslation": true,
+            "workInProgress": false,
+            "highlight": true
         }
     ],
     "partypack5": [
@@ -299,7 +299,7 @@
 
             "hasTextTranslation": false,
             "hasVoiceTranslation": false,
-            "workInProgress": false,
+            "workInProgress": true,
             "highlight": false
         },
         {
@@ -385,7 +385,7 @@
 
             "hasTextTranslation": true,
             "hasVoiceTranslation": false,
-            "workInProgress": false,
+            "workInProgress": true,
             "highlight": false
         },
         {
@@ -471,7 +471,7 @@
 
             "hasTextTranslation": true,
             "hasVoiceTranslation": false,
-            "workInProgress": false,
+            "workInProgress": true,
             "highlight": false
         },
         {
@@ -543,7 +543,7 @@
 
             "hasTextTranslation": false,
             "hasVoiceTranslation": false,
-            "workInProgress": false,
+            "workInProgress": true,
             "highlight": false
         },
         {
