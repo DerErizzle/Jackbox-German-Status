@@ -1,636 +1,2358 @@
 {
-    "partypack1": [
+    "Jackbox Party Pack": [
         {
             "gameID": 1,
-            "nameEN": "You Don't Know Jack 2015",
-            "nameDE": "",
+            "name": "You Don't Know Jack 2015",
             "minPlayers": 1,
             "maxPlayers": 4,
             "audienceSupport": false,
             "forLivestreams": false,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The comedy trivia sensation returns with hundreds of new questions that you can tackle on a night in by yourself or when you’re joined by friends.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 2,
-            "nameEN": "Fibbage XL",
-            "nameDE": "",
-            "minPlayers": 2,
-            "maxPlayers": 8,
-            "audienceSupport": false,
-            "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
-        },
-        {
-            "gameID": 3,
-            "nameEN": "Drawful",
-            "nameDE": "",
+            "name": "Drawful",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": false,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The first installment of the wildly popular drawing game allows you to draw bizarre doodles on your phone or tablet.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "gameID": 4,
-            "nameEN": "Word Spud",
-            "nameDE": "",
+            "gameID": 3,
+            "name": "Word Spud",
             "minPlayers": 2,
             "maxPlayers": 8,
             "audienceSupport": false,
             "forLivestreams": false,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "Test your vocabulary chops in the racy-as-you-want-it-to-be fill-in-the-blank word game.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Papa Palabra",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Papa Palabra",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "gameID": 4,
+            "name": "Lie Swatter",
+            "minPlayers": 1,
+            "maxPlayers": 100,
+            "audienceSupport": false,
+            "forLivestreams": true,
+            "description": "Need a game for a big group? Grab yourself or a crowd and play true-or-false with a timer. Don’t get swatted in this wacky fact-filled game! Grab the original Jackbox Party Pack to experience the storied Jackbox Games franchises in their first form.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Mata Mentiras",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Mata Mentiras",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 5,
-            "nameEN": "Lie Swatter",
-            "nameDE": "",
-            "minPlayers": 1,
-            "maxPlayers": 100,
-            "audienceSupport": true,
+            "name": "Fibbage XL",
+            "minPlayers": 2,
+            "maxPlayers": 8,
+            "audienceSupport": false,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The hilarious bluffing game now has 50% more questions added to the original hit game, Fibbage. Convince your friends that you know the answers to odd trivia questions OR aim to win the Thumbs Cup with the funniest answer.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack2": [
+    "Jackbox Party Pack 2": [
         {
             "gameID": 6,
-            "nameEN": "Fibbage 2",
-            "nameDE": "",
+            "name": "Fibbage 2",
             "minPlayers": 2,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The runaway hit bluffing game with over 500 brand-new questions, more than 2x the original! Plus new features, like the deFIBrillator!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 7,
-            "nameEN": "Earwax",
-            "nameDE": "",
+            "name": "Earwax",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The hear-larious sound-effects game that will leave you up to your ears in laughter! Cow moo? Huge explosion? Or tiny fart? Which to choose?",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Earwax: Sonidos Raros",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Earwax: Sonidos Raros",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 8,
-            "nameEN": "Bidiots",
-            "nameDE": "",
+            "name": "Bidiots",
             "minPlayers": 3,
             "maxPlayers": 6,
             "audienceSupport": false,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The absurd art auction game where you draw right there on your phone or tablet. Outbid your opponents for weird art pieces – drawn by players themselves – and win this strangely competitive auction game! Don’t be a bidiot!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Subastardos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Subastardos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 9,
-            "nameEN": "Quiplash XL",
-            "nameDE": "",
+            "name": "Quiplash XL",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The say-anything, gut-busting Quiplash XL (3-8 players), which includes everything in Quiplash, Quip Pack 1, AND over 100 brand-new prompts!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 10,
-            "nameEN": "Bomb Corp.",
-            "nameDE": "",
+            "name": "Bomb Corp.",
             "minPlayers": 1,
             "maxPlayers": 4,
             "audienceSupport": false,
             "forLivestreams": false,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The bomb-defusing nailbiter of a party game! As interns at Bomb Corp., you must defuse random bombs in the office in order to keep your jobs. You’ll probably die, but it’ll be good work experience!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Bomba S.A.",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Bomba S.A.",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack3": [
+    "Jackbox Party Pack 3": [
         {
             "gameID": 11,
-            "nameEN": "Quiplash 2",
-            "nameDE": "",
+            "name": "Quiplash 2",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The say-anything sequel. Play all new questions or make your own!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 12,
-            "nameEN": "Trivia Murder Party",
-            "nameDE": "",
+            "name": "Trivia Murder Party",
             "minPlayers": 1,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "A deadly quiz show where you match wits with a trivia-obsessed killer.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 13,
-            "nameEN": "Guesspionage",
-            "nameDE": "",
+            "name": "Guesspionage",
             "minPlayers": 2,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The brain-battering data-mining guessing game.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Espiadivinos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Espiadivinos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 14,
-            "nameEN": "Tee K.O.",
-            "nameDE": "",
+            "name": "Tee K.O.",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The t-shirt slugfest where you battle your custom t-shirts to the death!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 15,
-            "nameEN": "Fakin' It",
-            "nameDE": "",
+            "name": "Fakin' It",
             "minPlayers": 3,
             "maxPlayers": 6,
             "audienceSupport": true,
             "forLivestreams": false,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "One of your friends has something to hide in this sneaky game for tricksters.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Engáñame",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Engáñame",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack4": [
+    "Jackbox Party Pack 4": [
         {
             "gameID": 16,
-            "nameEN": "Fibbage 3",
-            "nameDE": "",
+            "name": "Fibbage 3",
             "minPlayers": 2,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The blanking fun sequel with all-new question types and the game mode Fibbage: Enough About You where you guess the weird facts about your friends.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 17,
-            "nameEN": "Survive the Internet",
-            "nameDE": "",
+            "name": "Survive the Internet",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The web-based frame game where you twist your friends’ “online” comments in hilarious ways.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Sobrevive al Internet",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Sobrevive al Internet",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 18,
-            "nameEN": "Monster Seeking Monster",
-            "nameDE": "",
+            "name": "Monster Seeking Monster",
             "minPlayers": 3,
             "maxPlayers": 7,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The spooky date-a-thon where you message and date fellow monsters with special powers.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "Monster Sucht Monster",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Monstruo Busca Monstruo",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Monstruo Busca Monstruo",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 19,
-            "nameEN": "Bracketeering",
-            "nameDE": "",
+            "name": "Bracketeering",
             "minPlayers": 3,
             "maxPlayers": 16,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The deranged debate match where you place smart bets on stupid arguments.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Bracketeering: Apuesta al Mejor",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Bracketeering: Apuesta al Mejor",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 20,
-            "nameEN": "Civic Doodle",
-            "nameDE": "Kritzel Witzel",
+            "name": "Civic Doodle",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The one-up art game where you compete to improve the town murals.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "Kritzel Witzel",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Garabato Cívico",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Garabato Cívico",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack5": [
+    "Jackbox Party Pack 5": [
         {
             "gameID": 21,
-            "nameEN": "You Don't Know Jack: Full Stream",
-            "nameDE": "",
+            "name": "You Don't Know Jack: Full Stream",
             "minPlayers": 1,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The pop-culture trivia mash-up YOU DON’T KNOW JACK: Full Stream. The classic returns, full of wild new surprises.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 22,
-            "nameEN": "Split The Room",
-            "nameDE": "",
+            "name": "Split The Room",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The what-if game Split the Room. Create strange and divisive hypothetical situations.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Divide la Sala",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Divide la Sala",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 23,
-            "nameEN": "Mad Verse City",
-            "nameDE": "",
+            "name": "Mad Verse City",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The lyric-writing game Mad Verse City. Channel your inner MC as a rap battling robot.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Mad Verse City: Ciudad del Rap",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Mad Verse City: Ciudad del Rap",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 24,
-            "nameEN": "Patently Stupid",
-            "nameDE": "",
+            "name": "Patently Stupid",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The competitive drawing game Patently Stupid. Create odd inventions to solve bizarre problems.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Patentemente Estúpido",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Patentemente Estúpido",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 25,
-            "nameEN": "Zeeple Dome",
-            "nameDE": "",
+            "name": "Zeeple Dome",
             "minPlayers": 1,
             "maxPlayers": 6,
-            "audienceSupport": false,
+            "audienceSupport": true,
             "forLivestreams": false,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The deadliest game show in the Crab Nebula, Zeeple Dome! Fling yourself at bloodthirsty aliens to win millions of Zubabucks!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack6": [
+    "Jackbox Party Pack 6": [
         {
             "gameID": 26,
-            "nameEN": "Trivia Murder Party 2",
-            "nameDE": "",
+            "name": "Trivia Murder Party 2",
             "minPlayers": 1,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The popular trivia deathmatch Trivia Murder Party 2. Try to survive the bizarre new minigames.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 27,
-            "nameEN": "Role Models",
-            "nameDE": "",
+            "name": "Role Models",
             "minPlayers": 3,
             "maxPlayers": 6,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The offbeat personality test Role Models. Find out who you really are. (Or at least what your friends think of you.)",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Modelo a Seguir",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Modelo a Seguir",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 28,
-            "nameEN": "Joke Boat",
-            "nameDE": "",
+            "name": "Joke Boat",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The comedy contest Joke Boat. Craft one-liners for a cruise ship talent show.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Crucero Cómico",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Crucero Cómico",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 29,
-            "nameEN": "Dictionarium",
-            "nameDE": "",
+            "name": "Dictionarium",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The weird word circus Dictionarium. May the funniest definition win.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Diccionarium",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Diccionarium",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 30,
-            "nameEN": "Push The Button",
-            "nameDE": "",
+            "name": "Push The Button",
             "minPlayers": 4,
             "maxPlayers": 10,
-            "audienceSupport": false,
+            "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The hidden identity game Push The Button. Can you discover the aliens in time?",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Pulsa el Botón",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Pulsa el Botón",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack7": [
+    "Jackbox Party Pack 7": [
         {
             "gameID": 31,
-            "nameEN": "Quiplash 3",
-            "nameDE": "",
+            "name": "Quiplash 3",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The say-anything threequel Quiplash 3. It’s a head-to-head battle of the wits as you give hilarious responses to quirky prompts while everyone else votes for their favorite!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 32,
-            "nameEN": "The Devils and the Details",
-            "nameDE": "",
+            "name": "The Devils and the Details",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
-            "forLivestreams": false,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "forLivestreams": true,
+            "description": "The collaborative chaos game The Devils and the Details. You’re a family of devils working together to survive in suburbia. Can you handle the daily torture of human life?",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "La Familia es un Infierno",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "La Familia es un Infierno",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 33,
-            "nameEN": "Champ'd Up",
-            "nameDE": "",
+            "name": "Champ’d Up",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "The drawing fighting game Champ’d Up. Create absurd characters that will battle over unusual titles. Can you take down the heavy favorite?",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Champ'd Up: Batalla de Campeones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Champ'd Up: Batalla de Campeones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 34,
-            "nameEN": "Talking Points",
-            "nameDE": "",
+            "name": "Talking Points",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "The on-the-spot public-speaking game Talking Points. Give a speech responding to picture slides you’ve never seen before or be the Assistant and approve pictures as fast as you can. Just keep talking whether it makes sense or not.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 35,
-            "nameEN": "Blather 'Round",
-            "nameDE": "",
+            "name": "Blather ‘Round",
             "minPlayers": 2,
             "maxPlayers": 6,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The pop culture guessing game Blather Round. Describe your secret prompt with a very limited vocabulary and hope that someone can figure it out in time. It’s a “GOOD” “FUN TIME” “EXPERIENCE.”",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Balbuceando Juntos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Balbuceando Juntos",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "partypack8": [
+    "Jackbox Party Pack 8": [
         {
             "gameID": 36,
-            "nameEN": "Drawful Animate",
-            "nameDE": "",
+            "name": "Drawful Animate",
             "minPlayers": 3,
             "maxPlayers": 10,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "It’s alive! The guessing game with terrible drawings and hilariously wrong answers makes a dynamic return. In this revamped title, players create looping, two-frame animations based on weird and random titles.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Drawful: Animado",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Drawful: Animado",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 37,
-            "nameEN": "Job Job",
-            "nameDE": "",
+            "name": "Job Job",
             "minPlayers": 3,
             "maxPlayers": 10,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
+            "description": "Use other people’s words to create unique and funny answers to classic job interview questions. Go head to head to see who scores the job!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Bajo Trabajo",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Bajo Trabajo",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 38,
-            "nameEN": "The Poll Mine",
-            "nameDE": "",
+            "name": "The Poll Mine",
             "minPlayers": 2,
             "maxPlayers": 10,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "A survey game that’s all about YOU! Split into teams and see who can escape from the witch’s lair! Players individually rank their choices to a difficult question, then must guess how the group answered as a whole. How well do you know your friends?!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "Die Poll Mine",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "The Poll Mine: Examinando opiniones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "The Poll Mine: Examinando opiniones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 39,
-            "nameEN": "Weapons Drawn",
-            "nameDE": "",
+            "name": "Weapons Drawn",
             "minPlayers": 4,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "A social deduction game where everyone is both a murderer and a detective. Players doodle all the clues, hiding a letter from their name in the weapon drawings. Can you solve murders while trying to get away with your own?",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": true,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "Trazo del Crimen",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "Trazo del Crimen",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "gameID": 40,
-            "nameEN": "The Wheel of Enormous Proportions",
-            "nameDE": "Das Rad von unglaublicher Größe",
-            "minPlayers": 2,
+            "name": "The Wheel of Enormous Proportions",
+            "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": false,
-            "hasVoiceTranslation": false,
-            "workInProgress": true,
-            "highlight": false
+            "description": "Trivia has never been so large! A fantastic, mystical wheel challenges you with a variety of trivia prompts. Winners are awarded slices of the Wheel’s face with a chance to win big with each nail-biting spin. In the end, one player will have their most burning question answered by the great Wheel.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "Das Rad von unglaublicher Größe",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "The Poll Mine: Examinando opiniones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "The Poll Mine: Examinando opiniones",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
-    "standalone": [
+    "Quiplash": [
         {
-            "gameID": 1001,
-            "nameEN": "Drawful 2",
-            "nameDE": "",
+            "gameID": 100,
+            "name": "Quiplash",
+            "minPlayers": 3,
+            "maxPlayers": 10,
+            "audienceSupport": true,
+            "forLivestreams": true,
+            "description": "Quiplash is the gut-busting battle of wits and wittiness! Just use your phone or tablet (no controllers needed) to answer simple prompts.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Quiplash 2 InterLASHional": [
+        {
+            "gameID": 101,
+            "name": "Quiplash 2 InterLASHional",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
-        },
+            "description": "The “say anything” party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language!",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Drawful 2": [
         {
-            "gameID": 1002,
-            "nameEN": "Quiplash",
-            "nameDE": "",
+            "gameID": 101,
+            "name": "Drawful 2",
             "minPlayers": 3,
             "maxPlayers": 8,
             "audienceSupport": true,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
-        },
+            "description": "Drawful is back to save your next party with Drawful 2, which challenges players to draw ridiculous prompts on their smartphones and tablets.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Fibbage XL": [
         {
-            "gameID": 1003,
-            "nameEN": "Quiplash 2 InterLASHional",
-            "nameDE": "",
-            "minPlayers": 3,
+            "gameID": 101,
+            "name": "Fibbage XL",
+            "minPlayers": 2,
             "maxPlayers": 8,
-            "audienceSupport": true,
+            "audienceSupport": false,
             "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": true,
-            "workInProgress": false,
-            "highlight": true
-        },
-        {
-            "gameID": 1004,
-            "nameEN": "Fibbage XL",
-            "nameDE": "",
-            "minPlayers": 3,
-            "maxPlayers": 8,
-            "audienceSupport": true,
-            "forLivestreams": true,
-
-            "hasTextTranslation": true,
-            "hasVoiceTranslation": false,
-            "workInProgress": false,
-            "highlight": false
+            "description": "The hilarious bluffing game now has 50% more questions added to the original hit game, Fibbage. Convince your friends that you know the answers to odd trivia questions OR aim to win the Thumbs Cup with the funniest answer.",
+            "languages": [
+                {
+                    "de": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "mx": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "es": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ],
+                    "ct": [
+                        {
+                            "name": "",
+                            "hasTextTranslation": false,
+                            "hasVoiceTranslation": false,
+                            "workInProgress": false,
+                            "recommendation": false,
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
