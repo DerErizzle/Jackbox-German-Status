@@ -2247,7 +2247,7 @@
     ],
     "Drawful 2": [
         {
-            "gameID": 101,
+            "gameID": 102,
             "name": "Drawful 2",
             "minPlayers": 3,
             "maxPlayers": 8,
@@ -2302,7 +2302,7 @@
     ],
     "Fibbage XL": [
         {
-            "gameID": 101,
+            "gameID": 103,
             "name": "Fibbage XL",
             "minPlayers": 2,
             "maxPlayers": 8,
