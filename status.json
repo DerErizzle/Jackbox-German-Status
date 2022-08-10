@@ -76,20 +76,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -129,20 +129,20 @@
                     "mx": [
                         {
                             "name": "Papa Palabra",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
-                            "workInProgress": false,
-                            "recommendation": false,
+                            "workInProgress": true,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Papa Palabra",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -182,20 +182,20 @@
                     "mx": [
                         {
                             "name": "Mata Mentiras",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Mata Mentiras",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -235,20 +235,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -343,20 +343,20 @@
                     "mx": [
                         {
                             "name": "Earwax: Sonidos Raros",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Earwax: Sonidos Raros",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
-                            "workInProgress": false,
-                            "recommendation": false,
+                            "workInProgress": true,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -396,20 +396,20 @@
                     "mx": [
                         {
                             "name": "Subastardos",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Subastardos",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -449,20 +449,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -502,20 +502,20 @@
                     "mx": [
                         {
                             "name": "Bomba S.A.",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Bomba S.A.",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -557,20 +557,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -610,20 +610,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -663,20 +663,20 @@
                     "mx": [
                         {
                             "name": "Espiadivinos",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Espiadivinos",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -716,20 +716,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -769,20 +769,20 @@
                     "mx": [
                         {
                             "name": "Engáñame",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Engáñame",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -824,7 +824,7 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -834,7 +834,7 @@
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -877,20 +877,20 @@
                     "mx": [
                         {
                             "name": "Sobrevive al Internet",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Sobrevive al Internet",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -930,20 +930,20 @@
                     "mx": [
                         {
                             "name": "Monstruo Busca Monstruo",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Monstruo Busca Monstruo",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -983,20 +983,20 @@
                     "mx": [
                         {
                             "name": "Bracketeering: Apuesta al Mejor",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Bracketeering: Apuesta al Mejor",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1036,20 +1036,20 @@
                     "mx": [
                         {
                             "name": "Garabato Cívico",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Garabato Cívico",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1144,20 +1144,20 @@
                     "mx": [
                         {
                             "name": "Divide la Sala",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Divide la Sala",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1197,7 +1197,7 @@
                     "mx": [
                         {
                             "name": "Mad Verse City: Ciudad del Rap",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -1207,7 +1207,7 @@
                     "es": [
                         {
                             "name": "Mad Verse City: Ciudad del Rap",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -1249,21 +1249,21 @@
                     ],
                     "mx": [
                         {
-                            "name": "Patentemente Estúpido",
-                            "hasTextTranslation": false,
+                            "name": "Patentes Dementes",
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
-                            "name": "Patentemente Estúpido",
-                            "hasTextTranslation": false,
+                            "name": "Patentes Dementes",
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1303,20 +1303,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1358,20 +1358,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1411,20 +1411,20 @@
                     "mx": [
                         {
                             "name": "Modelo a Seguir",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Modelo a Seguir",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1464,20 +1464,20 @@
                     "mx": [
                         {
                             "name": "Crucero Cómico",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Crucero Cómico",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1517,20 +1517,20 @@
                     "mx": [
                         {
                             "name": "Diccionarium",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Diccionarium",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1570,20 +1570,20 @@
                     "mx": [
                         {
                             "name": "Pulsa el Botón",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Pulsa el Botón",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1625,20 +1625,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1678,20 +1678,20 @@
                     "mx": [
                         {
                             "name": "La Familia es un Infierno",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "La Familia es un Infierno",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1731,20 +1731,20 @@
                     "mx": [
                         {
                             "name": "Champ'd Up: Batalla de Campeones",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Champ'd Up: Batalla de Campeones",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1784,20 +1784,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1892,20 +1892,20 @@
                     "mx": [
                         {
                             "name": "Drawful: Animado",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Drawful: Animado",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1945,20 +1945,20 @@
                     "mx": [
                         {
                             "name": "Bajo Trabajo",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Bajo Trabajo",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1998,20 +1998,20 @@
                     "mx": [
                         {
                             "name": "The Poll Mine: Examinando opiniones",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "The Poll Mine: Examinando opiniones",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2051,20 +2051,20 @@
                     "mx": [
                         {
                             "name": "Trazo del Crimen",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "Trazo del Crimen",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2103,21 +2103,21 @@
                     ],
                     "mx": [
                         {
-                            "name": "The Poll Mine: Examinando opiniones",
-                            "hasTextTranslation": false,
+                            "name": "La Ruleta de Enormes Proporciones",
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
-                            "name": "The Poll Mine: Examinando opiniones",
-                            "hasTextTranslation": false,
+                            "name": "La Ruleta de Enormes Proporciones",
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2159,18 +2159,18 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
                             "recommendation": false,
                             "description": ""
@@ -2214,7 +2214,7 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -2224,10 +2224,10 @@
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2269,7 +2269,7 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -2279,10 +2279,10 @@
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2324,20 +2324,20 @@
                     "mx": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
                     "es": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
-                            "recommendation": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
