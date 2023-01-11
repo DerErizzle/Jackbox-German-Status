@@ -492,7 +492,7 @@
                     "de": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": true,
                             "recommendation": false,
@@ -601,8 +601,8 @@
                         {
                             "name": "",
                             "hasTextTranslation": true,
-                            "hasVoiceTranslation": false,
-                            "workInProgress": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
                             "recommendation": false,
                             "description": ""
                         }
@@ -760,9 +760,9 @@
                         {
                             "name": "",
                             "hasTextTranslation": true,
-                            "hasVoiceTranslation": false,
-                            "workInProgress": true,
-                            "recommendation": false,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1507,7 +1507,7 @@
                     "de": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": false,
                             "recommendation": false,
@@ -1667,11 +1667,11 @@
                 {
                     "de": [
                         {
-                            "name": "",
-                            "hasTextTranslation": false,
-                            "hasVoiceTranslation": false,
-                            "workInProgress": true,
-                            "recommendation": false,
+                            "name": "Die Teufel im Detail",
+                            "hasTextTranslation": true,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -1827,7 +1827,7 @@
                     "de": [
                         {
                             "name": "",
-                            "hasTextTranslation": false,
+                            "hasTextTranslation": true,
                             "hasVoiceTranslation": false,
                             "workInProgress": true,
                             "recommendation": false,
@@ -1989,9 +1989,9 @@
                         {
                             "name": "Die Poll Mine",
                             "hasTextTranslation": true,
-                            "hasVoiceTranslation": false,
-                            "workInProgress": true,
-                            "recommendation": false,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
@@ -2042,9 +2042,9 @@
                         {
                             "name": "",
                             "hasTextTranslation": true,
-                            "hasVoiceTranslation": false,
-                            "workInProgress": true,
-                            "recommendation": false,
+                            "hasVoiceTranslation": true,
+                            "workInProgress": false,
+                            "recommendation": true,
                             "description": ""
                         }
                     ],
